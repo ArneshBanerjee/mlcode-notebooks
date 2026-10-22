@@ -1,6 +1,6 @@
 # mlcode notebooks
 
-Colab notebooks for the 45 PyTorch problems on [mlcode](https://mlcode-io.vercel.app).
+Colab notebooks for the 45 PyTorch problems on [mlcode](https://mlcode.tech).
 
 PyTorch has no WebAssembly build, so these problems cannot run in the browser.
 Colab already has torch installed and a GPU attached, so they run there instead.
